@@ -1,0 +1,6 @@
+{
+  "name": "Ash Findes",
+  "description": "Ash Findes - Premium AI Search, Multimodal Vision, Image Studio & Specialized AI Agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
